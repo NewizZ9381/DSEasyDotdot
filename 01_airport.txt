@@ -1,0 +1,4 @@
+BKK,Suvarnabhumi,Bangkok
+KIX,Kansai,Osaka
+JFK,John F. Kennedy,New York
+KUL,Kuala Lumpur,Kuala Lumpur
